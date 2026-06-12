@@ -52,7 +52,7 @@ An Information System graduate from **Universitas Komputer Indonesia (UNIKOM)** 
 ---
 
 ## 📫 Connect with Me
-- 💼 **LinkedIn:** [linkedin.com/in/zidanewijaya](https://www.linkedin.com)
+- 💼 **LinkedIn:** [linkedin.com/in/muhammadzidanesyifawijaya](https://www.linkedin.com/in/muhammadzidanesyifawijaya/)
 - 📧 **Email:** [zidanwijaya94@gmail.com](mailto:zidanwijaya94@gmail.com)
 - 📱 **Location:** South Jakarta, Indonesia
  
