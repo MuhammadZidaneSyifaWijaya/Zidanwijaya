@@ -51,15 +51,6 @@ An Information System graduate from **Universitas Komputer Indonesia (UNIKOM)** 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadZidaneSyifaWijaya&show_icons=true&theme=radial" alt="Zidane's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZidaneSyifaWijaya&layout=compact&theme=radial" alt="Top Langs" width="48%" />
-</p>
-
----
-
 ## 📫 Connect with Me
 - 💼 **LinkedIn:** [linkedin.com/in/zidanewijaya](https://www.linkedin.com)
 - 📧 **Email:** [zidanwijaya94@gmail.com](mailto:zidanwijaya94@gmail.com)
