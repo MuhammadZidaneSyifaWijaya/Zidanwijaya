@@ -25,7 +25,7 @@ An Information System graduate from **Universitas Komputer Indonesia (UNIKOM)** 
 
 ### 📊 1. Material Inventory Management Dashboard — PT Pertamina Hulu Indonesia
 * **Description:** Developed an **8-page executive dashboard** in Power BI consolidating supply chain data from **3 operating subsidiaries**. Built a **VBA Excel Macro pipeline** to automate the processing of **20 raw SAP files**, replacing an entire weekly manual reporting cycle under strict SKK Migas regulations (**PTK 007, A7001**).
-- 🔗 [View Project Repository](https://github.com/MuhammadZidaneSyifaWijaya/material-inventory-management-dashboard-pertamina)
+- 🔗 [View Project Repository][(https://github.com/MuhammadZidaneSyifaWijaya/Material-Inventory-Magement-PowerBI-Dashboard)]
 
 ### 🚜 2. Heavy Equipment Reliability Analytics — PT Freeport Indonesia
 * **Description:** Queried enterprise SQL databases to extract maintenance and parts records across **500+ heavy equipment units**. Performed **Root Cause Analysis (RCA)** and tracked **MTBF/MTTR metrics**, directly contributing to a **25% improvement in equipment reliability** post-implementation.
