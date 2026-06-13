@@ -31,17 +31,17 @@ An Information System graduate from **Universitas Komputer Indonesia (UNIKOM)** 
 * **Description:** Queried enterprise SQL databases to extract maintenance and parts records across **500+ heavy equipment units**. Performed **Root Cause Analysis (RCA)** and tracked **MTBF/MTTR metrics**, directly contributing to a **25% improvement in equipment reliability** post-implementation.
 - 🔗 [View Project Repository][(https://github.com/MuhammadZidaneSyifaWijaya/heavy-equipment-reliability-analytics-freeport)](https://github.com/MuhammadZidaneSyifaWijaya/Heavy-Equipment-Reliability-Analytics-PT-Freeport-Indonesia/blob/main/README.md)
 
-### 🚢 3. Order-to-Cash & Sales Intelligence Dashboard — PT United Tractors Pandu Engineering
-* **Description:** Engineered an ETL pipeline in Power Query to cleanse and structure **55,000+ CRM and sales quotation records**. Deployed a **4-page Sales Dashboard** that eliminated a 2-week monthly manual reporting lag and mapped the company's first formal **10-step, 16-actor BPMN diagram**.
-- 🔗 [View Project Repository](https://github.com/MuhammadZidaneSyifaWijaya/order-to-cash-sales-intelligence-dashboard)
-
-### 🧬 4. Centralized Data Mart & Gestalt BI Dashboard — Thesis Project (BIB Lembang)
+### 🧬 3. Centralized Data Mart & Gestalt BI Dashboard — Thesis Project (BIB Lembang)
 * **Description:** Architected a centralized Data Mart unifying data from **4 distinct operational departments**. Built **4 interactive Power BI dashboards** using **Design Thinking and Gestalt Principles**, reducing cross-departmental data inconsistencies by **90%** and passing full **User Acceptance Testing (UAT)**.
 - 🔗 [View Project Repository](https://github.com/MuhammadZidaneSyifaWijaya/livestock-maintenance-centralized-datamart)
 
-### 🛒 5. Supermarket Sales Dashboard — BNSP Data Analyst Certification
+### 🛒 4. Supermarket Sales Dashboard — BNSP Data Analyst Certification
 * **Description:** Built an **ETL pipeline in Advanced Excel** to transform **1,100+ raw retail transactions** from **5 cities** into a standardized, normalized dataset. Applied **PivotTables and Data Table analysis** to deliver dynamic dashboards tracking Total Sales, Cost, and Net Income. Scored **90/100** on the **national BNSP Data Analyst Competency Assessment**.
 - 🔗 [View Project Repository](https://github.com/MuhammadZidaneSyifaWijaya/supermarket-sales-dashboard-bnsp)
+
+### 🚢 5. Order-to-Cash & Sales Intelligence Dashboard — PT United Tractors Pandu Engineering
+* **Description:** Engineered an ETL pipeline in Power Query to cleanse and structure **55,000+ CRM and sales quotation records**. Deployed a **4-page Sales Dashboard** that eliminated a 2-week monthly manual reporting lag and mapped the company's first formal **10-step, 16-actor BPMN diagram**.
+- 🔗 [View Project Repository](https://github.com/MuhammadZidaneSyifaWijaya/order-to-cash-sales-intelligence-dashboard)
 
 ### 🧬 6. Livestock Genetic Selection & Predictive Modeling — Balai Inseminasi Buatan Lembang
 * **Description:** Developed a bull selection system in **Python implementing Genetic Algorithms** calibrated to **SNI KPIs**, improving fitness scores by **27.5% across 5 generations**. Normalized a **MySQL database to 3NF** to eliminate redundancies, and deployed a **Machine Learning model** to automate feed ration formulas against **Dry Matter (Bahan Kering) requirements**.
