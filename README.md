@@ -41,7 +41,7 @@ An Information System graduate from **Universitas Komputer Indonesia (UNIKOM)** 
 
 ### 🚢 5. Order-to-Cash & Sales Intelligence Dashboard — PT United Tractors Pandu Engineering
 * **Description:** Engineered an ETL pipeline in Power Query to cleanse and structure **55,000+ CRM and sales quotation records**. Deployed a **4-page Sales Dashboard** that eliminated a 2-week monthly manual reporting lag and mapped the company's first formal **10-step, 16-actor BPMN diagram**.
-- 🔗 [View Project Repository](https://github.com/MuhammadZidaneSyifaWijaya/order-to-cash-sales-intelligence-dashboard)
+- 🔗 [View Project Repository][(https://github.com/MuhammadZidaneSyifaWijaya/Order-to-Cash-Sales-Intelligence-Dashboard-PT-United-Tractors-Pandu-Engineering)]
 
 ### 🧬 6. Livestock Genetic Selection & Predictive Modeling — Balai Inseminasi Buatan Lembang
 * **Description:** Developed a bull selection system in **Python implementing Genetic Algorithms** calibrated to **SNI KPIs**, improving fitness scores by **27.5% across 5 generations**. Normalized a **MySQL database to 3NF** to eliminate redundancies, and deployed a **Machine Learning model** to automate feed ration formulas against **Dry Matter (Bahan Kering) requirements**.
