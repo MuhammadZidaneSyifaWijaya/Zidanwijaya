@@ -29,7 +29,7 @@ An Information System graduate from **Universitas Komputer Indonesia (UNIKOM)** 
 
 ### 🚜 2. Heavy Equipment Reliability Analytics — PT Freeport Indonesia
 * **Description:** Queried enterprise SQL databases to extract maintenance and parts records across **500+ heavy equipment units**. Performed **Root Cause Analysis (RCA)** and tracked **MTBF/MTTR metrics**, directly contributing to a **25% improvement in equipment reliability** post-implementation.
-- 🔗 [View Project Repository](https://github.com/MuhammadZidaneSyifaWijaya/heavy-equipment-reliability-analytics-freeport)
+- 🔗 [View Project Repository][(https://github.com/MuhammadZidaneSyifaWijaya/heavy-equipment-reliability-analytics-freeport)]
 
 ### 🚢 3. Order-to-Cash & Sales Intelligence Dashboard — PT United Tractors Pandu Engineering
 * **Description:** Engineered an ETL pipeline in Power Query to cleanse and structure **55,000+ CRM and sales quotation records**. Deployed a **4-page Sales Dashboard** that eliminated a 2-week monthly manual reporting lag and mapped the company's first formal **10-step, 16-actor BPMN diagram**.
